@@ -15,7 +15,7 @@ int main(int argc, char** argv)
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
     glutInitWindowSize(800, 600);
     glutInitWindowPosition(250, 80);
-    glutCreateWindow("David Setia Darmawan - 672018075");
+    glutCreateWindow("Leo Candra GW - 672018073");
     init();
     glutDisplayFunc(tampil);
     glutKeyboardFunc(keyboard);
